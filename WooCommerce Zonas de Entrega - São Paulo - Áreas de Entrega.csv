@@ -1,0 +1,91 @@
+,,,,
+Zonas de Entrega por CEP - São Paulo e Região Metropolitana,,,,
+,Nome da área,Regiões da área (CEP),Descrição,Entrega
+1,Zona Norte I,02000...02099,Santana / Carandiru / Vila Guilherme / Jardim São Paulo,10.00
+2,Zona Norte I,02100...02199,Vila Maria / Parque Novo Mundo / Jardim Japão,10.00
+3,Zona Norte II,02200...02299,Tucuruvi / Jaçanã / Parque Edu Chaves / Vila Medeiros / Vila Edi,10.00
+4,Zona Norte II,02300...02399,Jardim Tremembé / Barro Branco / Água Fria,10.00
+5,Zona Norte II,02400...02499,Mandaqui / Imirim / Lauzane Paulista / Santa Teresinha,10.00
+6,Zona Norte II,02500...02599,Casa Verde / Parque Peruche,10.00
+7,Zona Norte II,02600...02699,Vila Nova Cachoeirinha / Jardim Peri,10.00
+8,Zona Norte II,02700...02799,Limão / Nossa Senhora do Ó / Itaberaba,10.00
+9,Zona Norte II,02800...02899,Brasilândia / Morro Grande,10.00
+10,Zona Norte II,02900...02999,Freguesia do Ó / Pirituba / Piqueri,10.00
+11,Zona Leste I,03000...03099,Belenzinho / Brás / Belém / Pari / Canindé / Catumbi / Parque São Jorge,10.00
+12,Zona Leste I,03100...03199,Moóca / Alto da Moóca / Vila Prudente / Ana Rosa / Quarta Parada / Parque Moóca / Vila Zelina,10.00
+13,Zona Leste I,03200...03299,Vila Ema / Parque São Lucas / Vila Alpina / Sapopemba,10.00
+14,Zona Leste I,03300...03399,Tatuapé / Vila Formosa / Jardim Colorado / Vila Gomes Cardim / Jardim Anália Franco,10.00
+15,Zona Leste I,03400...03499,Vila Carrão / Carrãozinho,10.00
+16,Zona Leste II,03500...03599,Vila Matilde / Cidade Patriarca / Artur Alvim,10.00
+17,Zona Leste II,03600...03699,Penha / Vila Esperança / Vila Ré / Cidade Antônio Estêvão de Carvalho,10.00
+18,Zona Leste II,03700...03799,Cangaiba / Engenho Goulart / Ponte Rasa,10.00
+19,Zona Leste II,03800...03899,Ermelino Matarazzo / Vila Paranaguá,10.00
+20,Zona Leste III,03900...03999,São Mateus / Iguaçu,10.00
+21,Zona Leste III,08000...08099,São Miguel Paulista,10.00
+22,Zona Leste III,08100...08199,Itaim Paulista,10.00
+23,Zona Leste III,08200...08299,Itaquera,10.00
+24,Zona Leste III,08300...08399,São Mateus,10.00
+25,Zona Leste IV,08400...08499,Guaianazes,10.00
+26,Zona Sul I,04000...04099,Vila Mariana / Vila Clementino / Paraíso / Indianópolis / Moema / Planalto Paulista / Mirandópolis,10.00
+27,Zona Sul I,04100...04199,Jardim Glória / Saúde / Água Funda / Vila Mercês / Vila Liviero,10.00
+28,Zona Sul I,04200...04299,Ipiranga / Vila Carioca / Sacomã / Moinho Velho / São João Clímaco,10.00
+29,Zona Sul I,04300...04399,Jabaquara / Jardim Aeroporto / Vila Sta Catarina / Vila Guarani / Vila Mascote,10.00
+30,Zona Sul I,04400...04499,Cidade Ademar / Pedreira / Jardim Miriam / Americanópolis,10.00
+31,Zona Sul I,04500...04599,Brooklin Novo / Itaim Bibi / Vila Olímpia / Moema / Vila Nova Conceição,10.00
+32,Zona Sul I,04600...04699,Brooklin Paulista / Campo Belo / Aeroporto / Cidade Ademar / Campo Grande / Jurubatuba / Chácara Flora / Chácara Monte Alegre,10.00
+33,Zona Sul I,04700...04799,Santo Amaro / Chácara Santo Antônio / Granja Julieta / Socorro / Veleiros / Interlagos / Alto da Boa Vista,10.00
+34,Zona Sul II,04800...04899,Cidade Dutra / Rio Bonito / Parque Grajaú / Parelheiros,10.00
+35,Zona Sul II,04900...04999,Guarapiranga / Capela do Socorro,10.00
+36,Zona Oeste I,05000...05099,Lapa / Perdizes / Água Branca / Alto da Lapa / Vila Anastácia / Pompéia / Vila Romana,10.00
+37,Zona Oeste II,05100...05199,Vila Jaguara / Pirituba / Parque São Domingos,10.00
+38,Zona Oeste II,05200...05299,Jaraguá / Perus,10.00
+39,Zona Oeste II,05300...05399,Vila Leopoldina / Ceasa / Jaguaré / Rio Pequeno / Vila Hamburguesa / Vila Remédios,10.00
+40,Zona Oeste I,05400...05499,Pinheiros / Vila Madalena / Alto de Pinheiros,10.00
+41,Zona Oeste II,05500...05599,Butantã / Caxingui / Cidade Universitária (USP) / Jardim Peri-Peri / Jardim Bonfiglioli,10.00
+42,Zona Oeste I,05600...05699,Cidade Jardim / Morumbi / Vila Sônia / Jardim Guedala / Jardim Leonor / Real Parque,10.00
+43,Zona Oeste III,05700...05799,Campo Limpo / Pirajuçara,10.00
+44,Zona Oeste III,05800...05899,Capão Redondo / Vila Das Belezas,10.00
+45,Centro,01000...01099,Sé / Santa Efigênia / República / Centro,10.00
+46,Centro,01100...01199,Barra Funda / Bom Retiro / Luz / Ponte Pequena,10.00
+47,Centro,01200...01299,Santa Cecília / Pacaembú / Sumaré / Higienópolis / Consolação,10.00
+48,Centro,01300...01399,Consolação / Bela Vista,10.00
+49,Centro,01400...01499,Cerqueira César / Jardim Paulista / Jardim América / Jardim Europa,10.00
+50,Centro,01500...01599,Liberdade / Cambuci / Aclimação / Vila Monumento / Jardim da Glória,10.00
+51,ABCD,09000-001...09299-999,Santo André,12.00
+52,ABCD,09600-001...09899-999,São Bernardo,12.00
+53,ABCD,09500-001...09599-999,São Caetano do Sul,12.00
+54,ABCD,09900-001...09999-999,Diadema,12.00
+55,Região Metropolitana I,06000-001...06299-999,Osasco,14.00
+56,Região Metropolitana I,06700-001...06729-999,Cotia,14.00
+57,Região Metropolitana I,07000-001...07399-999,Guarulhos,14.00
+58,Região Metropolitana I,06800-001...06849-999,Embu das Artes,14.00
+59,Região Metropolitana I,06400-001...06499-999,Barueri,14.00
+60,Região Metropolitana I,06300-001...06399-999,Carapicuiba,14.00
+61,Região Metropolitana I,06600-001...06649-999,Jandira,14.00
+62,Região Metropolitana I,06650-001...06699-999,Itapevi,14.00
+63,Região Metropolitana I,06500-001...06549-999,Santana de Parnaíba,14.00
+64,Região Metropolitana I,06750-001...06799-999,Taboão da Serra,14.00
+65,Região Metropolitana II,06900-000...06949-999,Embu Guaçu,16.00
+66,Região Metropolitana II,06850-001...06889-999,Itapecerica da Serra,16.00
+67,Região Metropolitana II,09300-001...09399-999,Mauá,16.00
+68,Região Metropolitana II,09400-001...09449-999,Ribeirão Pires,16.00
+69,Região Metropolitana II,09450-000...09499-999,Rio Grande da Serra,16.00
+70,Região Metropolitana II,07700-001...07749-999,Caieiras,16.00
+71,Região Metropolitana II,07800-001...07899-999,Franco da Rocha,16.00
+72,Região Metropolitana II,07900-001...07999-999,Francisco Morato,16.00
+73,Região Metropolitana II,07750-001...07799-999,Cajamar,16.00
+74,Região Metropolitana II,07600-000...07699-999,Mairiporã,16.00
+75,Região Metropolitana II,06550-000...06599-999,Pirapora do Bom Jesus,16.00
+76,Região Metropolitana III,07400-001...07499-999,Arujá,18.00
+77,Região Metropolitana III,08570-001...08599-999,Itaquaquecetuba,18.00
+78,Região Metropolitana III,08500-001...08549-999,Ferraz de Vasconcelos,18.00
+79,Região Metropolitana III,08550-001...08569-999,Poá,18.00
+80,Região Metropolitana III,08600-001...08699-999,Suzano,18.00
+81,Região Metropolitana III,06890-000...06899-999,São Lourenço da Serra,18.00
+82,Região Metropolitana IV,08700-001...08899-999,Mogi das Cruzes,18.00
+83,Região Metropolitana IV,08900-000...08939-999,Guararema,18.00
+84,Região Metropolitana IV,,Rio Grande Paulista,18.00
+85,Região Metropolitana IV,07500-000...07599-999,Santa Izabel,18.00
+86,Região Metropolitana V,08940-000...08969-999,Biritiba Mirim,20.00
+87,Região Metropolitana V,08970-000...08999-999,Salesópolis,20.00
+88,Região Metropolitana V,06950-000...06999-999,Juquitiba,20.00
